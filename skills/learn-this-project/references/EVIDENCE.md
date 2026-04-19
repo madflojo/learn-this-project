@@ -24,7 +24,8 @@ When possible, cite files inline. Examples:
 
 - `README.md` states the repository goal.
 - `cmd/server/main.go` wires the HTTP service.
-- `.github/workflows/test.yml` shows the project runs unit tests and linting.
+- `.github/workflows/lint.yml` shows the project runs Markdown linting and
+  link checks.
 - `internal/store/postgres_test.go` demonstrates the integration-test pattern.
 
 ## Ambiguity Handling

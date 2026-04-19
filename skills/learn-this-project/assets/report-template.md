@@ -6,7 +6,7 @@
 - Confidence:
 - Evidence:
 
-# Tech Stack and Tooling
+## Tech Stack and Tooling
 
 - Languages and frameworks:
 - Build and package tools:
@@ -14,14 +14,14 @@
 - Notable dependencies or services:
 - Evidence:
 
-# Architecture and Execution Model
+## Architecture and Execution Model
 
 - Primary entrypoints:
 - Major components:
 - Key boundaries and data flow:
 - Evidence:
 
-# Conventions and Quality Signals
+## Conventions and Quality Signals
 
 - Layout and naming:
 - Configuration patterns:
@@ -30,13 +30,13 @@
 - Release or deployment signals:
 - Evidence:
 
-# Ambiguities and Gaps
+## Ambiguities and Gaps
 
 - Open questions:
 - Conflicting or stale signals:
 - Missing evidence:
 
-# Confidence Notes
+## Confidence Notes
 
 - High-confidence conclusions:
 - Medium-confidence inferences:
