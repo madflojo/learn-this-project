@@ -32,8 +32,8 @@ Small editorial fixes can go straight to a pull request.
 
 1. Preserve the canonical skill name.
    The published skill identifier is `learn-this-project`. Do not rename the
-   directory or metadata unless the repository is intentionally being republished
-   under a new identity.
+   directory or metadata unless the repository is intentionally being
+   republished under a new identity.
 
 2. Keep the skill evidence-first.
    Prefer guidance that tells the agent how to verify claims from code, config,
@@ -88,6 +88,12 @@ informational. Repository releases are managed by Git tags and Release Please.
 skills/
   learn-this-project/
     SKILL.md
+    assets/
+      report-template.md
+    references/
+      EVIDENCE.md
+      OUTPUT.md
+      WORKFLOW.md
 ```
 
 The repository-level docs, workflows, and release configuration exist only to
