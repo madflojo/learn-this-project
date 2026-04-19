@@ -10,7 +10,7 @@ description: >-
 license: Apache-2.0
 metadata:
   version: "1.0.0"
-  owner: Benjamin Cane
+  author: Benjamin Cane
   repository: learn-this-project
 ---
 
