@@ -41,20 +41,28 @@ lives under `assets/`.
 
 ## Installing the skill
 
-Primary path: install from GitHub CLI with `gh skill install`.
+Choose the install path that fits your setup:
+
+Install with GitHub CLI:
 
 ```bash
 gh skill install madflojo/learn-this-project
 ```
 
-Optional: pin to a tag or commit for reproducible installs:
+Install with npm tooling:
+
+```bash
+npx skills add -g -y madflojo/learn-this-project
+```
+
+Optional: pin the GitHub CLI install to a tag or commit for reproducible installs:
 
 ```bash
 gh skill install madflojo/learn-this-project@v1.0.0
 gh skill install madflojo/learn-this-project@<commit-sha>
 ```
 
-Fallback path: manually copy `skills/learn-this-project/` into either:
+Manual fallback: copy `skills/learn-this-project/` into either:
 
 - `.agents/skills/` in a repository
 - `~/.agents/skills/` for a user-level install

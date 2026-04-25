@@ -1,12 +1,11 @@
 ---
 name: learn-this-project
 description: >-
-  Triage a repository quickly and produce an evidence-backed summary of its
-  purpose, architecture, stack, workflows, and conventions without
-  overstating certainty.
-  Use this skill to get up to speed on an unfamiliar codebase, identify the
-  main components and how they fit together, and find the key files that support
-  the repo's stated purpose and capabilities.
+  Provides fast, evidence-backed repository triage for unfamiliar codebases and
+  produces a summary of purpose, architecture, tech stack, workflows,
+  conventions, and key files without overstating certainty. Use when the task
+  involves a repo overview, architecture summary, onboarding context, or quick
+  identification of a repository's main components and capabilities.
 license: Apache-2.0
 metadata:
   version: "1.0.0"
@@ -16,8 +15,8 @@ metadata:
 
 # Learn This Project
 
-Use this skill to learn an unfamiliar repository fast and report only what is
-supported by evidence in the repo.
+This skill helps an agent learn an unfamiliar repository quickly and report
+only what is supported by evidence in the repo.
 
 The goal is not to read everything. The goal is to produce a reliable working
 model of the project, identify the key files that support that model, and stay
